@@ -35,6 +35,6 @@ Bitcoin historical price dataset (2010–2025)
 - LSTM / Deep Learning models
 - Real-time API integration
 
-## 📊 Prediction Output
+## Prediction Output
 
 ![Prediction Graph](graph/prediction_vs_actual.png)
