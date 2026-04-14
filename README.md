@@ -29,12 +29,12 @@ Bitcoin historical price dataset (2010–2025)
 
 ## Limitations
 - Uses basic Linear Regression
-
-## 📊 Prediction Output
-
-![Prediction Graph](graph/prediction_vs_actual.png)
 - Does not consider real-world market factors
 
 ## Future Improvements
 - LSTM / Deep Learning models
 - Real-time API integration
+
+## 📊 Prediction Output
+
+![Prediction Graph](graph/prediction_vs_actual.png)
